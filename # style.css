@@ -1,0 +1,37 @@
+h1{
+    color:rgb(207, 32, 32);
+    background-color:yellow;
+}
+ul li{
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color:#ff0;
+    font: size 30;
+}
+ul{
+    background-color:#fff;
+    
+}
+
+
+
+table,th,td{
+    border: 5px solid #f00;
+}
+
+
+
+
+
+button{
+    background-color: green;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    padding: top 5px;
+    padding-bottom: 5px
+}
